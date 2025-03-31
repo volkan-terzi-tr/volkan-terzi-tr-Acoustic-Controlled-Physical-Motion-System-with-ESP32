@@ -22,7 +22,7 @@ This project demonstrates a simple sound-triggered servo control system using an
 1. Connect the hardware as shown in the circuit diagram.
 2. Open the Arduino IDE and install required libraries.
 3. Select the correct board: **ESP32-S3 Dev Module** and appropriate port.
-4. Upload the code from `main.ino` to the ESP32-S3.
+4. Upload the code from `sketch_mar29a.ino` to the ESP32-S3.
 5. Once uploaded, the ESP32 will create a Wi-Fi Access Point.
 6. Connect to the Wi-Fi (e.g., `ESP32-AUDIO`), and open a browser.
 7. Navigate to `http://192.168.4.1` to view the live interface.
